@@ -1,0 +1,32 @@
+name: mess_connect
+description: "A new Flutter project."
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  google_sign_in: ^6.2.2  # or the latest version
+  excel: ^4.0.6  # or the latest version
+  provider: ^6.0.3  # Add provider package
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo-bright.png
+    - assets/validity.xlsx
+    - assets/google_icon.png
+    - assets/Login-B.png
+    - assets/home-B.png

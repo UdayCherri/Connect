@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "79246460679",
+    "project_id": "connect-dec2024",
+    "storage_bucket": "connect-dec2024.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79246460679:android:94ce1ee13a66c1ec14a7a2",
+        "android_client_info": {
+          "package_name": "com.example.mess_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcRDTU_eHw1DUJGg4bM4OHz4BOb0P6t-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
